@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><a href="https://shsarv.github.io/Machine-Learning-Projects/">TruthGuardAI</a></h1>
+  <h1><a href="https://github.com/bharat3645/TruthGuardAI/">TruthGuardAI</a></h1>
   <img alt="GIF" src="1.png" />
   <img alt="GIF" src="2.png" />
   <img alt="GIF" src="3.png" />
