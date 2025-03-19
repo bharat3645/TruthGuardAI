@@ -1,10 +1,5 @@
 <div align="center">
   <h1><a href="https://github.com/bharat3645/TruthGuardAI/">TruthGuardAI</a></h1>
-  <img alt="GIF" src="1.png" />
-  <img alt="GIF" src="2.png" />
-  <img alt="GIF" src="3.png" />
-  <img alt="GIF" src="4.png" />
-  <img alt="GIF" src="5.png" />
 </div>
 
 <p align="center">
